@@ -1,0 +1,16 @@
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\bin\Debug\Images\blackKing.png
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\bin\Debug\Images\blackPiece.png
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\bin\Debug\Images\DamkaGame.jpg
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\bin\Debug\Images\whiteKing.png
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\bin\Debug\Images\whitePiece.png
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\bin\Debug\Ex05 Hadar 211512017 Eden 212709323.exe.config
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\bin\Debug\Ex05 Hadar 211512017 Eden 212709323.exe
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\bin\Debug\Ex05 Hadar 211512017 Eden 212709323.pdb
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\obj\Debug\ChekersGame.csproj.AssemblyReference.cache
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\obj\Debug\ChekersGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\obj\Debug\FormGameBoard.resources
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\obj\Debug\FormSettings.resources
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\obj\Debug\ChekersGame.csproj.GenerateResource.cache
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\obj\Debug\ChekersGame.csproj.CoreCompileInputs.cache
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\obj\Debug\Ex05 Hadar 211512017 Eden 212709323.exe
+C:\Users\naors\Downloads\ChekersGame\ChekersGame\ChekersGame\ChekersGame\obj\Debug\Ex05 Hadar 211512017 Eden 212709323.pdb
